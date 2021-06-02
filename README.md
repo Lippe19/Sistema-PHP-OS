@@ -8,11 +8,15 @@ O sistema tem as seguintes funcionalidades:
 - Backup do banco de dados 
 - Métricas
 
+
+
 Landing Page
 ![print](https://github.com/Lippe19/Sistema-PHP-OS/blob/main/5.JPG)
 
+
 Login
 ![print](https://github.com/Lippe19/Sistema-PHP-OS/blob/main/6.JPG)
+
 
 Dashboard
 ![print](https://github.com/Lippe19/Sistema-PHP-OS/blob/main/7.JPG)
